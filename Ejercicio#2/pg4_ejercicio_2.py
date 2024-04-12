@@ -1,3 +1,7 @@
+#Julian Clot
+#Universidad Fidelitas
+#Programacion basica
+
 dias = {}
 
 # Primer proceso

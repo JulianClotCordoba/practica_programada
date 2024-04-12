@@ -1,4 +1,6 @@
-
+# Julian Clot
+# Universidad Fidelitas
+# Programacion Basica
 
 for i in range(1, 26):
     salario = int(input(f"Digite el salario del futbolista #{i}: "))

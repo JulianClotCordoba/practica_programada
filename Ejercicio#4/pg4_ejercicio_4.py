@@ -1,3 +1,7 @@
+# Julian Clot Cordoba
+# Universidad Fidelitas
+# Porgramacion Basica
+
 
 with open("personas.txt", "w") as personas_data:
     pass
